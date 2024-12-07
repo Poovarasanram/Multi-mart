@@ -1,0 +1,57 @@
+.table tr td img {
+    width: 80px !important;
+    height: 80px !important;
+    object-fit: cover;
+}
+
+td i {
+    cursor: pointer;
+}
+
+td,
+th {
+    color: var(--primary-color);
+}
+
+
+.buy_btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.buy_btn:hover {
+    background-color: #0056b3;
+}
+
+.fs-4 {
+    font-size: 1.5rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.align-item-center {
+    align-items: center;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.fs-4 {
+    font-size: 1.5rem;
+}
+
+.fw-bold {
+    font-weight: bold;
+}

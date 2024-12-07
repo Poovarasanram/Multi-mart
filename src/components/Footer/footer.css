@@ -1,0 +1,69 @@
+.footer {
+    padding-top: 60px;
+    padding-bottom: 30px;
+    background: var(--primary-color);
+}
+
+.footer_text {
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.735);
+}
+
+.footer_quick_links ul li {
+    background: transparent !important;
+}
+
+.footer_quick_links ul li a {
+    color: rgba(255, 255, 255, 0.735);
+}
+
+.quick_links_title {
+    margin-bottom: 20px;
+    color: #fff;
+    font-size: 1.1rem;
+}
+
+.footer_quick_links span {
+    margin-right: 8px;
+    /* Adjust spacing between icon and text */
+}
+
+.footer_quick_links span i {
+    font-size: 18px;
+    /* Adjust icon size */
+    vertical-align: middle;
+    /* Align icons vertically with text */
+    margin-right: 5px;
+    /* Add some spacing between icon and text */
+}
+
+.footer_quick_links .ri-mail-line {
+    color: rgba(255, 255, 255, 0.735);
+    /* Change color of mail icon */
+}
+
+.footer_quick_links .ri-map-pin-line {
+    color: rgba(255, 255, 255, 0.735);
+    /* Change color of mail icon */
+}
+
+.footer_quick_links .ri-phone-line,
+.footer_contact li p {
+    color: rgba(255, 255, 255, 0.735);
+    /* Change color of mail icon */
+}
+
+.footer-contact li span {
+    font-size: 1.2rem;
+}
+
+.footer_contact li p {
+    font-size: 0.9rem;
+}
+
+.footer_copyright {
+    color: rgba(255, 255, 255, 0.735);
+    font-size: 0.9rem;
+    margin-top: 50px;
+    text-align: center;
+}
